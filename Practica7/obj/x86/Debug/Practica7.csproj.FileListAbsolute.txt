@@ -1,0 +1,12 @@
+C:\Users\Guest\Desktop\Practica7-master\Practica7\Practica7\obj\x86\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\Guest\Desktop\Practica7-master\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\Guest\Desktop\Practica7-master\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\Guest\Desktop\Practica7-master\Practica7\Practica7\bin\Debug\MySql.Data.dll
+C:\Users\Guest\Desktop\Practica7-master\Practica7\Practica7\obj\x86\Debug\Practica7.exe
+C:\Users\Guest\Desktop\Practica7-master\Practica7\Practica7\obj\x86\Debug\Practica7.pdb
+C:\Users\lizbeth\Desktop\Practica7-master\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\lizbeth\Desktop\Practica7-master\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\lizbeth\Desktop\Practica7-master\Practica7\Practica7\bin\Debug\MySql.Data.dll
+C:\Users\lizbeth\Desktop\Practica7-master\Practica7\Practica7\obj\x86\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\lizbeth\Desktop\Practica7-master\Practica7\Practica7\obj\x86\Debug\Practica7.exe
+C:\Users\lizbeth\Desktop\Practica7-master\Practica7\Practica7\obj\x86\Debug\Practica7.pdb
